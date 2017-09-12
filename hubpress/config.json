@@ -2,7 +2,8 @@
   "meta": {
     "username": "aliassurname",
     "repositoryName": "aliassurname.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "https://www.dropbox.com/s/5o6gf35qjgbw49d/Aakash_Nihalani_in_n_out_2%20%281%29.jpg?dl=0",
+    "cover": "https://www.dropbox.com/s/u0876ka3jtu3ilr/Aakash_Nihalani_in_n_out_1.jpg?dl=0",
+    "delay": "",
+    "postsPerPage": "6",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
